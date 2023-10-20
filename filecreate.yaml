@@ -3,7 +3,7 @@
 
   tasks:
 
-   - name: Create training file
+   - name: Create training file.
 
      file:
 
